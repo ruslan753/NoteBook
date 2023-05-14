@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">com.example.notebook.model.NoteBook</string>
+    <string name="TABLE">CREATE TABLE</string>
+</resources>
